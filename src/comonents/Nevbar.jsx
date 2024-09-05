@@ -15,7 +15,7 @@ export default class Nevbar extends Component {
               <li className="nav-item">
                 <Link className="nav-link" aria-current="page" to="/">Home</Link>
               </li>
-              <li className="nav-item"><Link className="nav-link" to="/">About</Link>
+              <li className="nav-item"><Link className="nav-link" to="/about">About</Link>
               </li>
                <li className="nav-item"><Link className="nav-link" to="/business">Business</Link></li>
                <li className="nav-item"><Link className="nav-link" to="/entertainment">Entertainment</Link></li>
