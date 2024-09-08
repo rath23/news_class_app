@@ -9,9 +9,9 @@ export default class About extends Component {
     return (
         
       <div
-        className="container my-4"
+        className="container"
       >
-        <h4 id="scrollspyHeading1">About Us</h4>
+        <h4 id="scrollspyHeading1 " style={{marginTop:"8rem"}}>About Us</h4>
         <p>
           Our web application is your one-stop source for staying updated with
           the latest news. It fetches top headlines from trusted news sources,
